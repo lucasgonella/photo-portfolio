@@ -1,4 +1,4 @@
-#Photo Portfolio
+# Photo Portfolio
 
 > A simple project to teach my students.
 
